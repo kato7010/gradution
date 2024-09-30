@@ -408,10 +408,6 @@ img {
         opacity: 1;
 
     }
-
-    .feature__item-title,
-    .feature__item-explanation{
-	margin-top:0.5rem;
 	    
     }
 }
@@ -424,12 +420,15 @@ img {
 }
 
 .feature__item-title:first-child {
-    margin-top: 0;
+    margin-top: 1rem;
 
 }
 
 
-.feature__item-explanation {}
+.feature__item-explanation {
+    margin-top: 1rem;
+	
+}
 
 @media(min-width:1024px) {
 
