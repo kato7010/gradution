@@ -409,6 +409,11 @@ img {
 
     }
 
+    .feature__item-title,
+    .feature__item-explanation{
+	margin-top:0.5rem;
+	    
+    }
 }
 
 /* min-width:1024px end */
