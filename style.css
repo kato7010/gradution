@@ -395,7 +395,7 @@ img {
         position: absolute;
         background-color: var(--blackTrans);
         width: 100%;
-        padding: 2rem;
+        padding: 1.5rem 2rem;
         height: 0;
         bottom: 0;
         opacity: 0;
