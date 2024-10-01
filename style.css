@@ -111,7 +111,7 @@ img {
 
 @media(min-width:768px) {
     .wrapper {
-        width: min(92%, 960px);
+        width: min(92%, 1000px);
         margin-right: auto;
         margin-left: auto;
 
